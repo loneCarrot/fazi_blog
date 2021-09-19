@@ -32,6 +32,7 @@ p{
 }
 
 .header-ref{
+    padding-top: 20px;
     position: absolute;
     right:0;
 }
